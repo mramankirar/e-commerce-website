@@ -10,7 +10,7 @@ Designed with scalability, accessibility, and performance in mind, this project 
 
 ### 🔗 Visit My Portfolio
 
-👉 **[Live Demo →](https://mramankirar.github.io/Aman-s-Portfolio-website/)**
+👉 **[Live Demo →](https://mramankirar.github.io/e-commerce-website/)**
 
 ---
 
