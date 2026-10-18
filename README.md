@@ -8,19 +8,12 @@ Designed with scalability, accessibility, and performance in mind, this project 
 # ✨ Key Features
 
 🛍️ Product Listings & Categories
-
 🔍 Product Search & Filtering
-
 🛒 Shopping Cart Functionality
-
 📱 Fully Responsive Design
-
 🎨 Modern and Clean UI
-
 ⚡ Smooth User Experience
-
 🔐 User Authentication (if implemented)
-
 💳 Secure Payment Integration (if implemented)
 
 # 🎯 Project Objective
