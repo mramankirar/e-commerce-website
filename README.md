@@ -48,9 +48,9 @@ Designed and developed as a web development project to demonstrate practical ski
 
 ### 🔗 Connect With Me
 
-* 🌐 Portfolio: **[Visit Website](https://mramankirar.github.io/Aman-s-Portfolio-website/)**
+* 🌐 Portfolio: **[Visit Website](https://mramankirar.github.io/e-commerce-website/)**
 * 💻 GitHub: **[My GitHub](https://github.com/mramankirar)**
-* 📧 Email: **YOUR_EMAIL**
+* 📧 Email: **mramankirar@gmail.com**
 
 ---
 
