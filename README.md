@@ -56,7 +56,7 @@ Designed and developed as a web development project to demonstrate practical ski
 
 <div align="center">
 
-###  Thanks for visiting my portfolio!
+###  Thanks for visiting my E-commerce Website!
 
 **Made with ❤️ by Aman**
 
