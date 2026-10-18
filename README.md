@@ -45,3 +45,20 @@ The primary objective of this project is to develop a professional online shoppi
 # 👨‍💻 Developer
 
 Designed and developed as a web development project to demonstrate practical skills in building modern, responsive, and user-centric web applications.
+
+### 🔗 Connect With Me
+
+* 🌐 Portfolio: **[Visit Website](https://mramankirar.github.io/Aman-s-Portfolio-website/)**
+* 💻 GitHub: **[My GitHub](https://github.com/mramankirar)**
+* 📧 Email: **YOUR_EMAIL**
+
+---
+
+<div align="center">
+
+###  Thanks for visiting my portfolio!
+
+**Made with ❤️ by Aman**
+
+</div>
+
